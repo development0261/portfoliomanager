@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "fillna",
+        "visulization"
+    ],
+    "cSpell.ignoreWords": [
+        "Divya",
+        "inplace"
+    ],
+    "git.ignoreLimitWarning": true,
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:portfoliomanager-master}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
